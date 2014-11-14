@@ -7,4 +7,4 @@ Buildpacks are containarized instances of Grunt, Gulp, Bower, etc... They all ex
 sudo docker run -v /path/to/project/src:/data achilles
 ```
 
-In the above example we're using the `achilles` buildpack to compile `/path/to/project/src`
+In the above example we're using the `achilles` buildpack to compile `/path/to/project/src`.
